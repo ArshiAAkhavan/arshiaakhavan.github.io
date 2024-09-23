@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "Amirmahdi Namjoo's Personal Website"
+    description: "ArshiA Akhavan's Personal Website"
   analytics:
     google_analytics: ''
   verification:
@@ -40,7 +40,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Amirmahdi Namjoo. This work is licensed under {license}'
+    notice: '© {year} ArshiA Akhavan. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -65,7 +65,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/titansarus/amirmahdi-namjoo'
+    url: 'https://github.com/ArshiAAkhavan/arshiaakhavan.github.io'
     content_dir: content
     branch: main
   avatar:

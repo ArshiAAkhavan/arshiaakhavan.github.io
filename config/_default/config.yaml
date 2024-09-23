@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Amirmahdi Namjoo # Website name
-baseURL: 'https://titansarus.github.com/' # Website URL
+title: ArshiA Akhavan # Website name
+baseURL: 'https://arshiaakhavan.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
