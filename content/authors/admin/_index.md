@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Amirmahdi Namjoo
+title: ArshiA Akhavan
 
 # Full name (for SEO)
-first_name: Amirmahdi
-last_name: Namjoo
+first_name: Arshia
+last_name: Akhavan
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,24 +18,29 @@ organizations:
     url:  "https://sharif.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer security and privacy, high performance computing, operating systems, computer architecture, and software engineering.
+# TODO: ARSHIA
+bio: My research interests include computer systems, parallel computing and distributed systems, programming languages and verification, high performance computing, operating systems, computer architecture, and software engineering.
 
 # Interests to show in About widget
 interests:
-  - Computer Security and Privacy
-  - High Performance Computing
-  - Operating Systems
-  - Computer Architecture
-  - Software Engineering
+    - Computer Systems
+    - Parallel Computing
+    - Distributed Systems
+    - Programming Languages
+    - Verification
+    - High Performance Computing
+    - Operating Systems
+    - Computer Networking
+    - WebAssembly
 
 # Education to show in About widget
 education:
   courses:
     - course: Bachelor of Science in Computer Engineering
       institution: Sharif University of Technology
-      year: Fall 2018 - July 2023
+      year: Fall 2018 - July 2024
     - course: High School Diploma in Mathematics and Physics
-      institution: Shahid Beheshti NODET (SAMPAD) High School
+      institution: Allame Helli Tehran NODET (SAMPAD) High School
       year: Fall 2014 - Spring 2018
 
 # Social/Academic Networking
@@ -49,10 +54,10 @@ social:
 
   - icon: github
     icon_pack: fab
-    link: https://github.com/titansarus
+    link: https://github.com/ArshiAAkhavan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
+    link: https://www.linkedin.com/in/arshia-akhavan/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -68,6 +73,13 @@ email: ''
 highlight_name: true
 ---
 
-I graduated from Sharif University of Technology with a Bachelor of Science in Computer Engineering and will be a Ph.D. Student in Computer Science at the University of Maryland from Winter 2023. I am interested in computer security and privacy, high-performance computing, operating systems, and computer architecture.
+I hold a Bachelor of Science in Computer Engineering from Sharif University of Technology.
+I’ve worked as a Data Platform engineer at Digikala, the largest e-commerce platform in the Middle East,
+and currently serve as a software engineer at Sotoon, where we provide distributed cloud solutions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé.{{< /staticref >}}
+My research interests focus on parallel computing, distributed systems, programming languages, verification, and operating systems.
+I'm particularly passionate about utilizing Rust for safer code through compile-time guarantees and exploring WebAssembly's role in cloud environments.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
+</br>
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-industrial-CV.pdf" "newtab" >}}industrial resumé.{{< /staticref >}}
