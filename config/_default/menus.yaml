@@ -13,12 +13,9 @@ main:
   - name: Academic Experience
     url: '#academic-experience'
     weight: 21
-  - name: Industrial Experience
-    url: '#industrial-experience'
-    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 31
+    weight: 30
   - name: Service
     url: '#voluntary'
     weight: 40
