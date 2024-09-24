@@ -16,27 +16,27 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: amirmahdi.namjoo1@gmail.com
+  email: letmemakenewone@gmail.com
 
 
-  
+
   contact_links:
     - icon: building-columns
       icon_pack: fas
-      link: mailto:namjoo@umd.edu
-      name: amirmahdi.namjoo@sharif.edu
+      link: mailto:arshia.akhavan@sharif.edu
+      name: arshia.akhavan@sharif.edu
     - icon: github
       icon_pack: fab
-      name: GitHub (titansarus)
-      link: 'https://github.com/titansarus'
+      name: GitHub (ArshiAAkhavan)
+      link: 'https://github.com/ArshiAAkhavan'
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: 'https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/'
+      link: 'https://www.linkedin.com/in/arshia-akhavan/'
     - icon: telegram
       icon_pack: fab
       name: Telegram
-      link: 'https://t.me/amir_astrophysics'
+      link: 'https://t.me/letmemakenewone'
 
 design:
   columns: '2'
