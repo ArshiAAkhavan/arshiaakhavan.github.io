@@ -177,18 +177,6 @@ experience:
         * Teaching Assistant - **Advanced Programming in Java**
             * Instructors: Mr. Iman Isazadeh
 
-
-  - title: Software Engineer
-    company: Digikala
-    company_url: 'https://www.digikala.com'
-    company_logo: dk
-    location: Tehran
-    date_start: '2022-08-01'
-    date_end: '2022-08-01'
-    description: |2-
-        * Digikala is the largest e-commerce company in Iran.
-        * Worked on Supernova platform, Digikalajet and Pindo using PHP, MySQL, Elasticsearch, Jenkins, and Swagger
-
 design:
   columns: '2'
 ---
