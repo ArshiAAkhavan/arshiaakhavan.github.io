@@ -16,68 +16,94 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - icon: "k8s"
+    icon_pack: "custom"
+    name: "Kubernetes"
+
   - icon: "docker"
     icon_pack: "custom"
     name: "Docker"
 
-  - icon: "linux"
+  - icon: "wasm"
     icon_pack: "custom"
-    name: "Linux"
+    name: "WebAssembly"
 
 
-  - icon: "git"
+  - icon: "aws"
     icon_pack: "custom"
-    name: "Git"
+    name: "AWS"
 
-
-  - icon: "jenkins"
+  - icon: "azure"
     icon_pack: "custom"
-    name: Jenkins
+    name: "Azure"
 
-
-  - icon: "django"
+  - icon: "do"
     icon_pack: "custom"
-    name: Django
+    name: "Digital Ocean"
 
-  - icon: "symfony"
+  - icon: "cuda"
     icon_pack: "custom"
-    name: symfony
+    name: Nvidia CUDA
 
-  - icon: "react"
+  - icon: "intel"
     icon_pack: "custom"
-    name: React
+    name: Intel AVX
 
-  - icon: "mysql"
+  - icon: "rayon-rs"
     icon_pack: "custom"
-    name: MySQL
+    name: rayon-rs
 
-  - icon: "postgres"
+  - icon: "packer"
     icon_pack: "custom"
-    name: PostgreSQL
+    name: "Packer"
 
   - icon: "mongodb"
     icon_pack: "custom"
     name: MongoDB
 
+  - icon: "cassandra"
+    icon_pack: "custom"
+    name: Cassandra
+
   - icon: "elasticsearch"
     icon_pack: "custom"
     name: Elasticsearch
 
-  - icon: "kibana"
+  - icon: "kafka"
     icon_pack: "custom"
-    name: Kibana
+    name: Kafka
 
-  - icon: "pytorch"
+  - icon: "redis"
     icon_pack: "custom"
-    name: PyTorch
+    name: Redis
 
-  - icon: "tensorflow"
+  - icon: "ansible"
     icon_pack: "custom"
-    name: TensorFlow
+    name: Ansible
 
-  - icon: "cuda"
+  - icon: "terraform"
     icon_pack: "custom"
-    name: Nvidia CUDA
+    name: Terraform
+
+  - icon: "helm"
+    icon_pack: "custom"
+    name: Helm
+
+  - icon: "argocd"
+    icon_pack: "custom"
+    name: ArgoCD
+
+  - icon: "spark"
+    icon_pack: "custom"
+    name: Spark
+
+  - icon: "hdfs"
+    icon_pack: "custom"
+    name: HDFS
+
+  - icon: "ceph"
+    icon_pack: "custom"
+    name: CEPH
 
   - icon: "raspberry"
     icon_pack: "custom"
@@ -86,7 +112,7 @@ feature:
   - icon: "arduino"
     icon_pack: "custom"
     name: Arduino
-  
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

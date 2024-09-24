@@ -24,33 +24,25 @@ feature:
     icon_pack: "custom"
     name: "C++"
 
-
-  - icon: "python"
+  - icon: "Rust"
     icon_pack: "custom"
-    name: "Python"
+    name: "Rust"
 
+  - icon: "OCaml"
+    icon_pack: "custom"
+    name: "OCaml"
 
   - icon: "go"
     icon_pack: "custom"
     name: Go
 
-
-  - icon: "java"
+  - icon: "python"
     icon_pack: "custom"
-    name: Java
+    name: "Python"
 
-  - icon: "js"
+  - icon: "bash"
     icon_pack: "custom"
-    name: Javascript
-
-  - icon: "php"
-    icon_pack: "custom"
-    name: Php
-
-    
-  - icon: "r"
-    icon_pack: "custom"
-    name: R
+    name: "Bash"
 
   - icon: "verilog"
     icon_pack: "custom"
@@ -61,7 +53,7 @@ feature:
     name: LaTeX
 
 
-  
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
