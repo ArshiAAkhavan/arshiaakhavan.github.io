@@ -1,16 +1,13 @@
 ---
 title: Duelyst
 summary: |2-
-   * I have designed and implemented a clone of the Duelyst game as part of the Advanced Programming course alongside my teammates using **Java** and **JavaFX**.
+    * I have designed and implemented a clone of the Duelyst game as part of the Advanced Programming course alongside my teammates using **Java** and **JavaFX**.
 
-   * The course in which we did this project was taught by **Dr. Mahdi Mostafazadeh** at Sharif University of Technology.
-
-
+    * The course in which we did this project was taught by **Dr. Mahdi Mostafazadeh** at Sharif University of Technology.
 
     * Teammates:
-      * <a href="https://github.com/fatteme">Fatteme Khashei</a>
-
-      * <a href="https://github.com/SaeeSaadat">Saee Saadat</a>
+        * <a href="https://github.com/fatteme">Fatteme Khashei</a>
+        * <a href="https://github.com/SaeeSaadat">Saee Saadat</a>
 tags:
     - SE
 date: "2019-08-01T00:00:00Z"
