@@ -10,8 +10,8 @@ main:
   - name: Honors
     url: '#honors'
     weight: 20
-  - name: Academic Experience
-    url: '#academic-experience'
+  - name: Academic Services
+    url: '#academic-services'
     weight: 21
   - name: Industrial Experience
     url: '#industrial-experience'
