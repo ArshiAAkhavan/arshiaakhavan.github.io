@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: AI
-      tag: AI
+    - name: System
+      tag: System
     - name: Embedded
       tag: ERS
     - name: Architecture
@@ -39,8 +39,6 @@ content:
       tag: SE
     - name: HPC
       tag: HPC
-    - name: Bio
-      tag: Bio
     - name: Network
       tag: Net
     - name: Compiler
