@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - icon: "Rust"
+    icon_pack: "custom"
+    name: "Rust"
+
   - icon: "C"
     icon_pack: "custom"
     name: "C"
@@ -23,10 +27,6 @@ feature:
   - icon: "Cpp"
     icon_pack: "custom"
     name: "C++"
-
-  - icon: "Rust"
-    icon_pack: "custom"
-    name: "Rust"
 
   - icon: "OCaml"
     icon_pack: "custom"
