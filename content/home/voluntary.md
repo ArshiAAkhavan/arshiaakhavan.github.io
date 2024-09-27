@@ -22,116 +22,96 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: President
+
+  - title: Founder & President
+    company: Code o She'r (first)
+    # company_url: ''
+    company_logo: ssc
+    location: Tehran
+    date_start: '2023-11-01'
+    date_end: '2024-04-01'
+    description: |2-
+        * Code o She'r is a Spaghetti Code Challange which focuses on UBs and exploits architectural behaviors of Computers and compilers with the aim of hosting an environment for contestant to become more familiar with the field fo computer systems.
+            </br> </br>
+        * As the Founder and President of Code o She'r, I took on the role of leadership over a team of 70+ members and oversaw various flows from design, marketing, and executive duties to Scientific and technical tasks.
+
+  - title: Vise President of Tech
     company: SSC
     company_url: ''
     company_logo: ssc
     location: Tehran
-    date_start: '2022-09-01'
+    date_start: '2020-09-01'
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
         * Students' Scientific Chapter (SSC) is a scientific association consisting of all students of Computer Engineering Department of Sharif University of Technology. It holds scientific talks and events throughout the year. Its central council consists of nine members, selected by votes of all students.
-        * I have been selected as the president of SSC for one academic year by gaining the most votes in the general election and then gaining the votes of other central council members.
+            </br> </br>
+        * I have been selected as the vise president of tech in SSC for one academic year by gaining the most votes in the general election and then gaining the votes of other central council members.
 
-  - title: Chief of Staff
-    company: ICPC Asia Tehran Regional Contest 2022
+  - title: chief of technical staff
+    company: ICPC Asia Tehran Regional Contest 2023
     company_url: ''
     company_logo: icpc
-    location: Tehran
+    location: tehran
     date_start: '2023-04-01'
     date_end: '2023-05-30'
     description: |2-
-        * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world. 
 
-        * I was Chief of Staff of the ICPC Asia Tehran Regional Contest 2022.
+        * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world.
 
-  - title: Vice Chair
-    company: WSS 2022
+        * As the Cheif of Tech, I was tasked with leading the technical team of 10 members and address a variety of technical needs such as:
+            </br> </br>
+            * Build contest-customized OS images and distribute them on contestant hosts using PXE Network boot.
+            * Manage and configure hosts used by contestants and monitor their connectivity.
+            * Restrict external access and host to host access of each contestant’s host device.
+            * ensure network performance and fairness between defferent devices used by the contestants.
+
+
+
+  - title: chief of technical staff
+    company: ICPC Asia Tehran Regional Contest 2022
     company_url: ''
-    company_logo: wss
-    location: Tehran
-    date_start: '2023-02-01'
-    date_end: '2022-04-30'
-    description: |2-
-        * Winter Seminar Series (WSS) is a scientific event held by the SCC. Invited professors and researchers from different universities around the world give talks on their research topics.
-
-        * I was vice chair of WSS 2022.
-
-
-  - title: Executive Staff
-    company: Hardwar 2023
-    company_url: ''
-    company_logo: hardwar
-    location: Tehran
+    company_logo: icpc
+    location: tehran
     date_start: '2023-04-01'
-    date_end: '2022-05-30'
-    description: |2-
-        * Hardwar is a scientific event held by the SCC. It is a 2-day event, where students form teams and compete in different fields of hardware related topics.
+    date_end: '2023-05-30'
 
-        * I was on the Executive team of Hardwar 2023.
-
-  - title: Scientific Staff
-    company: Hardwar 2022
-    company_url: ''
-    company_logo: hardwar
-    location: Tehran
-    date_start: '2022-05-01'
-    date_end: '2022-06-01'
-    description: |2-
-        * Hardwar is a scientific event held by the SCC. It is a 2-day event, where students form teams and compete in different fields of hardware related topics.
-
-        * Hardwar 2022 consisted of two parts of FPGA and Arduino. I was the scientific staff of the FPGA part of the event.
-
-  - title: Scientific Staff
-    company: WSS 2022
-    company_url: ''
-    company_logo: wss
-    location: Tehran
-    date_start: '2021-12-01'
-    date_end: '2022-04-01'
-    description: |2-
-        * Winter Seminar Series (WSS) is a scientific event held by the SCC. Invited professors and researchers from different universities around the world give talks on their research topics.
-
-        * I was on the scientific staff of WSS 2022, where I was responsible for the selection and invitation of the speakers.
-
-  - title: Scientific Staff
-    company: DataDays 2021
-    company_url: ''
-    company_logo: datadays
-    location: Tehran
-    date_start: '2020-12-01'
-    date_end: '2021-09-01'
-    description: |2-
-        * DataDays is an event and tournament held by the SSC. In this events which teams of participants compete to solve a data science problem. The teams are given a dataset and a problem statement, and they have to analyze the data and come up with a solution.
-
-        * Lots of educational content is provided to the participants, including workshops and different Jupyter notebooks. I was responsible for the content of some of the notebooks.
-
-  - title: Technical Staff
+  - title: Chief of Technical Staff
     company: ACM-ICPC Asia Tehran Regional Contest 2019
     company_url: ''
     company_logo: icpc
     location: Tehran
     date_start: '2019-10-01'
     date_end: '2019-12-01'
-    description: |2-
-        * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world. 
+    description:
 
-        * I was on the technical staff of the ICPC Asia Tehran Regional Contest 2019.
-
-  - title: Technical Staff
-    company: The 2019 ICPC Asia -West Continent Final Contest (Tehran Site)
+  - title: Chief of Technical Staff
+    company: The 2019 ICPC Asia-West Continent Final Contest (Tehran Site)
     company_url: ''
     company_logo: icpc
     location: Tehran
     date_start: '2020-01-01'
     date_end: '2020-01-01'
+    description:
+
+
+  - title: Chief of Infrastructure and System Team
+    company: Sharif AI Challange  2021
+    company_url: ''
+    company_logo: aic
+    location: Tehran
+    date_start: '2020-12-01'
+    date_end: '2021-05-30'
     description: |2-
-        * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world. 
+        * AIC is the biggest AI contest in Iran in which teams have to develop strategy for competting against other teams, using AI
 
-        * I was on the technical staff of the ICPC Asia -West Continent Final Contest (Tehran Site).
-
-
-    
+        * As the Chief of Infrastructure and System Team, I was tasked with leading a team of 4 to address the Infrastructure needs of the contest:
+            </br> </br>
+            * Develop an event-driven maching system.
+            * Design and Develop an auto-scaler system for the matching infrastructure to ensure minimum latency for the matches.
+            * Ensure faire resource allocation between rival binaries.
+            * Create an isolated sand-box for each contestant binary and eliminate any side-channel attack that may affect the faireness of the results.
+            * Maintain Data Storage for storing all datas from game logs to contestant binaries and monitoring data.
 design:
   columns: '2'
 ---
