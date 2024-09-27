@@ -31,8 +31,6 @@ content:
       tag: System
     - name: Embedded
       tag: ERS
-    - name: Architecture
-      tag: Arch
     - name: OS
       tag: OS
     - name: Software
