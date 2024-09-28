@@ -26,7 +26,7 @@ experience:
   - title: Founder & President
     company: Code o She'r (first)
     # company_url: ''
-    company_logo: ssc
+    company_logo: codeosher
     location: Tehran
     date_start: '2023-11-01'
     date_end: '2024-04-01'

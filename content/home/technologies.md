@@ -49,9 +49,9 @@ feature:
     icon_pack: "custom"
     name: Intel AVX
 
-  - icon: "rayon-rs"
+  - icon: "qemu"
     icon_pack: "custom"
-    name: rayon-rs
+    name: Qemu
 
   - icon: "packer"
     icon_pack: "custom"
