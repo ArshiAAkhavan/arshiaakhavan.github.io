@@ -1,18 +1,8 @@
 ---
-title: "Novel Distance-Learning Methods To Overcome Challenges Caused by COVID-19 In Undergraudate Programming Courses"
+title: "Explainable Rational Synthesis in Multi-Agent Systems: A Compositional Approach"
 authors:
 - admin
-- Seyed Parsa Neshaei
-- Parham Chavoshian
-- Parham Saremi
-- Mohammad Taha Jahani-Nezhad
-- AmirMahdi Kousheshi
-- Mohammadamin Fazli
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2022-07-04T00:00:00Z"
-doi: "10.21125/edulearn.2022.2233"
+date: "2024-02-04T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-04T00:00:00Z"
@@ -21,31 +11,34 @@ publishDate: "2022-07-04T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["8"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "14th International Conference on Education and New Learning Technologies (EDULEARN 2022)"
+publication: "Comming Soon..."
 publication_short: ""
 
-abstract: With the rise of COVID-19 cases, all Sharif University of Technology undergraduate courses shifted toward a completely online paradigm, which caused new challenges in the education and assessment of students. Two of the most important courses for Computer Engineering students with lots of challenges due to the pandemic were Fundamentals of Programming and Advanced Object-Oriented Programming. To overcome these difficulties, we used various distance-learning techniques to enhance the quality of education.
-
+abstract: We are currently developing novel algorithms for explainable rational synthesis in multi-agent systems (MAS) with Linear Temporal Logic (LTL) objectives. Our work addresses the challenge of computing Nash equilibrium strategies in concurrent graph games, a problem known for its double-exponential complexity. I have created a compositional approach that enhances the performance and explainability of rational synthesis by converting the game into a suspect game, solving it as a parity game, and optimizing strategies for multi-agent coordination. Additionally, my research includes the practical implementation of a tool that significantly outperforms state-of-the-art LTL synthesis methods in various case studies, with a focus on improving system performance and understandability in applications such as autonomous systems and robotics.
 
 # Summary. An optional shortened abstract.
 
 
 tags:
-- computer science education
-- e-learning
-- distance learning
-- covid-19
-- programming courses
-- plagiarism detection
+- Formal Verification
+- Concurrent Systems
+- Rational Synthesis
+- Autonomous Systems
+- Multi-Agent Systems
+- System Repair
+- Temporal Logic Synthesis
+- Nash Equilibrium
+- Game Theory
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://library.iated.org/view/NESHAEI2022NOV
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
