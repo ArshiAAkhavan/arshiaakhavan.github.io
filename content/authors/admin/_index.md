@@ -83,3 +83,5 @@ I'm particularly passionate about utilizing Rust for safer code through compile-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
 </br>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-industrial-CV.pdf" "newtab" >}}industrial resumé.{{< /staticref >}}
+</br>
+But be aware that <a href="/">the web page </a> is **more up to date!**
