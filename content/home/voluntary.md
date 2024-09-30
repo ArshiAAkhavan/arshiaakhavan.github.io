@@ -52,8 +52,8 @@ experience:
     company_url: ''
     company_logo: icpc
     location: tehran
-    date_start: '2023-04-01'
-    date_end: '2023-05-30'
+    date_start: '2024-05-30'
+    date_end: '2024-05-31'
     description: |2-
 
         * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world.
