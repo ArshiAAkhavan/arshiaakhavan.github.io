@@ -31,7 +31,7 @@ experience:
     date_start: '2023-11-01'
     date_end: '2024-04-01'
     description: |2-
-        * Code o She'r is a Spaghetti Code Challange which focuses on UBs and exploits architectural behaviors of Computers and compilers with the aim of hosting an environment for contestant to become more familiar with the field fo computer systems.
+        * Code o She'r is a Spaghetti Code Challange which focuses on UBs and exploits architectural behaviors of Computers and compilers with the aim of hosting an environment for contestants to become more familiar with the field of computer systems.
             </br> </br>
         * As the Founder and President of Code o She'r, I took on the role of leadership over a team of 70+ members and oversaw various flows from design, marketing, and executive duties to Scientific and technical tasks.
 
@@ -60,7 +60,7 @@ experience:
 
         * As the Cheif of Tech, I was tasked with leading the technical team of 10 members and address a variety of technical needs such as:
             </br> </br>
-            * Build contest-customized OS images and distribute them on contestant hosts using PXE Network boot.
+            * Build contest-customized OS images and distribute them on contestants hosts using PXE Network boot.
             * Manage and configure hosts used by contestants and monitor their connectivity.
             * Restrict external access and host to host access of each contestant’s host device.
             * ensure network performance and fairness between defferent devices used by the contestants.
