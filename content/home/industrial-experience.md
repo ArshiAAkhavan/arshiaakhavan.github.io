@@ -34,9 +34,9 @@ experience:
         Providing storage servers, DNS, CDN, Bigdata solution and managed k8s cluster. I worked in the K8s as a Service team.
             </br>
         Experiences:
-        * Using [SIGS/Cluster-api](https://github.com/kubernetes-sigs/cluster-api) to provide a boostraping automation and operations as a service for k8s.
-        * Develop and Maintain SotoonCSI, a **CSI implementation** that integerates with Sotoon's storage backend.
-        * Develop **node-AutoScaler** for k8s cluster which integerates with Sotoon's Computation backend with the aim of reducing costumers costs.
+        * Using [SIGS/Cluster-api](https://github.com/kubernetes-sigs/cluster-api) to provide bootstraping and operations as a service for k8s.
+        * Develop and Maintain SotoonCSI, a **CSI implementation** that integrates with Sotoon's storage backend.
+        * Develop **node-AutoScaler** for k8s cluster which integrates with Sotoon's Computation backend with the aim of reducing customers costs.
         * Develop and maintain a **CCM** module to provide loadbalancers for k8s clusters using sotoon's compute infrastructure.
         * Provide additional cluster plugins such as **DNS** and **CNI** as an automated solution.
         * Plan and Lead **Migration** of **over 100 customer**'s k8s-clusters to the new infrastructure with **zero downtime**.
