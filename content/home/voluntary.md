@@ -41,7 +41,7 @@ experience:
     company_logo: ssc
     location: Tehran
     date_start: '2020-09-01'
-    date_start: '2021-09-01'
+    date_end: '2021-09-01'
     description: |2-
         * Students' Scientific Chapter (SSC) is a scientific association consisting of all students of Computer Engineering Department of Sharif University of Technology. It holds scientific talks and events throughout the year. Its central council consists of nine members, selected by votes of all students.
             </br> </br>
