@@ -15,10 +15,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Setup Hugo
+      - name: Setup Hugo Extended
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.119.0'  # Adjust the version if necessary
+          hugo-version: '0.119.0'  # Using your local version
+          extended: true           # Make sure to use the extended version!
 
       - name: Build Site
         run: hugo --minify
@@ -37,3 +38,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages   # Change this if you prefer a different branch
+
