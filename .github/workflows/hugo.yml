@@ -3,10 +3,10 @@ name: Hugo CI/CD
 on:
   push:
     branches:
-      - main    # Update to your default branch
+      - master    # Update to your default branch
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
