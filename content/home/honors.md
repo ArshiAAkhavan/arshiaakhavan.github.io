@@ -32,6 +32,16 @@ experience:
     description: |2-
         * Ranked 118'th in the National University Entrance Exam on Mathematics (Konkour) among more than 144,000 students nationwide. (Top 0.08%)
 
+  - title: 2'nd place BGSU ACM Hackathon
+    company: BGSU
+    company_url: 'bgsu.edu'
+    company_logo: bgsu
+    location: USA, Ohio
+    date_start: '2025-04-06'
+    date_end: '2025-04-07'
+    description: |2-
+        * Awarded for creating Piqniq, an emergency alert app designed to support users through panic attacks.
+
 design:
   columns: '2'
 ---
