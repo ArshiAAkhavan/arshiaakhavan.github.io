@@ -3,47 +3,37 @@ name: Hugo CI/CD
 on:
   push:
     branches:
-      - master      # Change to your default branch if needed
+      - main    # Update to your default branch
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # Check out the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Setup Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.111.3' # Adjust the Hugo version if needed
+          hugo-version: '0.111.3'  # Adjust the version if necessary
 
-      # Install dependencies if you have any (e.g., npm install for themes)
-      #- name: Install Dependencies
-      #  run: npm install
-
-      # Build the site with Hugo
-      - name: Build
+      - name: Build Site
         run: hugo --minify
 
-      # Optionally, deploy to GitHub Pages (if you want to use GitHub Pages)
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Deploy using a popular GitHub Pages action
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages    # Change if you wish to use a different branch
+          publish_branch: gh-pages   # Change this if you prefer a different branch
