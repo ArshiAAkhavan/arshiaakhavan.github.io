@@ -33,8 +33,8 @@ experience:
         * Ranked 118'th in the National University Entrance Exam on Mathematics (Konkour) among more than 144,000 students nationwide. (Top 0.08%)
 
   - title: 2'nd place BGSU ACM Hackathon
-    company: BGSU
-    company_url: 'bgsu.edu'
+    company: BGSU ACM
+    company_url: 'https://main.d3pmeorbdqi2ck.amplifyapp.com/'
     company_logo: bgsu
     location: USA, Ohio
     date_start: '2025-04-06'
