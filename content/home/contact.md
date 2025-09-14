@@ -23,8 +23,8 @@ content:
   contact_links:
     - icon: building-columns
       icon_pack: fas
-      link: mailto:arshia.akhavan@sharif.edu
-      name: arshia.akhavan@sharif.edu
+      link: mailto:aakhavan3824@sdsu.edu
+      name: aakhavan3824@sdsu.edu
     - icon: github
       icon_pack: fab
       name: GitHub (ArshiAAkhavan)
