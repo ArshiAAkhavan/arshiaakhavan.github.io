@@ -10,7 +10,7 @@ last_name: Akhavan
 superuser: true
 
 # Role/position/tagline
-role: Masters Student in Computer Science, San Diego State University
+role: Masters Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
