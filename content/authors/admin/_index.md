@@ -10,12 +10,12 @@ last_name: Akhavan
 superuser: true
 
 # Role/position/tagline
-role: part time Software Engineer, part time Computer Science enthusiast
+role: Masters Student in Computer Science, San Diego State University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sharif University of Technology
-    url:  "https://sharif.edu"
+  - name: San Diego State University
+    url:  "https://sdsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 # TODO: ARSHIA
@@ -36,6 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Masters in Computer Science
+      institution: San Diego State University
+      year: Fall 2025 - Currently 
     - course: Bachelor of Science in Computer Engineering
       institution: Sharif University of Technology
       year: Fall 2018 - July 2024
@@ -73,12 +76,11 @@ email: ''
 highlight_name: true
 ---
 
-I hold a Bachelor of Science in Computer Engineering from Sharif University of Technology.
-I’ve worked as a Data Platform engineer at Digikala, the largest e-commerce platform in the Middle East,
-and currently serve as a software engineer at Sotoon, where we provide distributed cloud solutions.
+I am a Master’s student in the Computer Science Department at San Diego State University, where I work as a research assistant under [Bryan Donyanavard](https://bryandony.github.io/). My research focuses on deploying 3D Scene Graph (3DSG) edge services that maintain consistent global scene representations and serve them to multiple autonomous agents in real time. I develop adaptive policies for reconciling distributed updates and serving resource-aware subgraphs, enabling reliable operation of autonomous systems in dynamic environments. I am also broadly interested in formal methods and distributed systems as foundations for building correct and scalable autonomous cyber-physical systems.
 
-My research interests focus on parallel computing, distributed systems, programming languages, verification, and operating systems.
-I'm particularly passionate about utilizing Rust for safer code through compile-time guarantees and exploring WebAssembly's role in cloud environments.
+I have industry experience as a Software Engineer at Sotoon, a cloud service provider in Iran, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East.
+
+I received my Bachelor of Science in Computer Engineering from Sharif University of Technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
 </br>
