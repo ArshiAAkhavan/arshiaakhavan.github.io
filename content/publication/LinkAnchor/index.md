@@ -3,9 +3,8 @@ title: "LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recov
 authors:
 - admin
 - Alireza hossein pour
-- Mehdi Keshani
-- Amir M. Mir
 - Abbas Heydarnoori
+- Mehdi Keshani
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
