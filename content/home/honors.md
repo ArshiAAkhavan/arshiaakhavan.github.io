@@ -26,7 +26,7 @@ experience:
     company: Konkur
     company_url: ''
     company_logo:
-    location: Iran
+    # location: Iran
     date_start: '2018-06-28'
     date_end: '2018-06-28'
     description: |2-

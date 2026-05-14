@@ -102,7 +102,7 @@ experience:
     date_start: '2020-12-01'
     date_end: '2021-05-30'
     description: |2-
-        * AIC is the biggest AI contest in Iran in which teams have to develop strategy for competting against other teams, using AI
+        * AIC is the biggest AI contest in the country in which teams have to develop strategy for competting against other teams, using AI
 
         * As the Chief of Infrastructure and System Team, I was tasked with leading a team of 4 to address the Infrastructure needs of the contest:
             </br> </br>

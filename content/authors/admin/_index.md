@@ -78,7 +78,9 @@ highlight_name: true
 
 I am a Master’s student in the Computer Science Department at San Diego State University, where I work as a research assistant under [Bryan Donyanavard](https://bryandony.github.io/). My research focuses on deploying 3D Scene Graph (3DSG) edge services that maintain consistent global scene representations and serve them to multiple autonomous agents in real time. I develop adaptive policies for reconciling distributed updates and serving resource-aware subgraphs, enabling reliable operation of autonomous systems in dynamic environments. I am also broadly interested in formal methods and distributed systems as foundations for building correct and scalable autonomous cyber-physical systems.
 
-I have industry experience as a Software Engineer at Sotoon, a cloud service provider in Iran, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East.
+<!-- I have industry experience as a Software Engineer at Sotoon, a cloud service provider in Iran, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East. -->
+
+I have industry experience as a Software Engineer at Sotoon, a cloud service provider, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East.
 
 I received my Bachelor of Science in Computer Engineering from Sharif University of Technology.
 
