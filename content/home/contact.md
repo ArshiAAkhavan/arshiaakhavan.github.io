@@ -29,8 +29,8 @@ content:
       icon_pack: fab
       name: GitHub (ArshiAAkhavan)
       link: 'https://github.com/ArshiAAkhavan'
-    - icon: google-scholar
-      icon_pack: fab
+    - icon: graduation-cap 
+      icon_pack: fas
       name: Google Scholar
       link: 'https://scholar.google.com/citations?hl=en&user=s8YrbIQAAAAJ'
     - icon: linkedin
