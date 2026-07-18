@@ -55,6 +55,9 @@ social:
     icon_pack: fas
     link: '/#contact'
 
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?hl=en&user=s8YrbIQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ArshiAAkhavan
