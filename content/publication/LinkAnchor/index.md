@@ -6,11 +6,11 @@ authors:
 - Abbas Heydarnoori
 - Hamid Bagheri
 - Mehdi Keshani
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2025-08-04T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2508.12232"
+doi: "https://doi.org/10.1145/3808191"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-04T00:00:00Z"
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2508.12232'
+url_pdf: "https://dl.acm.org/doi/10.1145/3808191"
 url_code: 'https://github.com/ISE-Research/LinkAnchor'
 url_dataset: ''
 url_poster: ''
