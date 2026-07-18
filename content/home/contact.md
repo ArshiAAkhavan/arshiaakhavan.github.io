@@ -31,6 +31,7 @@ content:
       link: 'https://github.com/ArshiAAkhavan'
     - icon: google-scholar
       icon_pack: fab
+      name: Google Scholar
       link: 'https://scholar.google.com/citations?hl=en&user=s8YrbIQAAAAJ'
     - icon: linkedin
       icon_pack: fab
