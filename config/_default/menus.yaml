@@ -10,27 +10,27 @@ main:
   - name: Honors
     url: '#honors'
     weight: 20
-  - name: Academic Services
-    url: '#academic-services'
-    weight: 21
-  - name: Industrial Experience
-    url: '#industrial-experience'
-    weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 31
-  - name: Service
-    url: '#voluntary'
-    weight: 40
   - name: Publications
     url: '#publications'
+    weight: 30
+  - name: Industrial Experience
+    url: '#industrial-experience'
+    weight: 40
+  - name: Projects
+    url: '#projects'
     weight: 50
+  - name: Academic Services
+    url: '#academic-services'
+    weight: 60
+  - name: Service
+    url: '#voluntary'
+    weight: 70
   - name: Skills
     url: '#programming-languages'
-    weight: 51
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
