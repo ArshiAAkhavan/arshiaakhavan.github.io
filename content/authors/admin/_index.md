@@ -48,7 +48,7 @@ social:
     icon_pack: fas
     link: '/#contact'
 
-  - icon: graduation-cap 
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=s8YrbIQAAAAJ
   - icon: github
@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an M.S. student in Computer Science at San Diego State University, where I work as an NSF-funded research assistant with [Bryan Donyanavard](https://bryandony.github.io/). **I am applying to PhD programs for Fall 2027.**
+I am an M.S. student in Computer Science at San Diego State University, where I work as a research assistant with [Bryan Donyanavard](https://bryandony.github.io/). **I am applying to PhD programs for Fall 2027.**
 
 My research interests are in programming languages and verification for concurrent and distributed systems. I want to make deadlocks, data races, memory-ordering and consistency bugs unrepresentable, rather than finding them after the fact. I am also interested in type systems, verified program rewriting with e-graphs, and safe systems programming in Rust.
 
