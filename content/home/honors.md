@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
 title: Honors and Awards
 subtitle:
@@ -22,7 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Ranked 118'th
+  - title: Presidential Graduate Research Fellowship (PGRF)
+    company: San Diego State University
+    company_url: 'https://www.sdsu.edu'
+    location: San Diego, CA
+    date_start: '2025-09-01'
+    date_end: '2027-12-01'
+    description: |2-
+        * University merit fellowship awarded by SDSU for excellence in research and academic achievement, in addition to my NSF-funded research assistantship.
+
+  - title: Ranked 118th
     company: Konkur
     company_url: ''
     company_logo:
@@ -30,11 +39,11 @@ experience:
     date_start: '2018-06-28'
     date_end: '2018-06-28'
     description: |2-
-        * Ranked 118'th in the National University Entrance Exam on Mathematics (Konkour) among more than 144,000 students nationwide. (Top 0.08%)
+        * Ranked 118th in the National University Entrance Exam on Mathematics (Konkour) among more than 144,000 students nationwide. (Top 0.08%)
 
-  - title: 2'nd place BGSU ACM Hackathon
+  - title: 2nd place, BGSU ACM Hackathon
     company: BGSU ACM
-    company_url: 'https://main.d3pmeorbdqi2ck.amplifyapp.com/'
+    company_url: ''
     company_logo: bgsu
     location: USA, Ohio
     date_start: '2025-04-06'

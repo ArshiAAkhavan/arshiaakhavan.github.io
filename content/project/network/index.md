@@ -1,5 +1,5 @@
 ---
-title: Computer Networks Course Project (P2P Netowrk)
+title: Computer Networks Course Project (P2P Network)
 summary: |2-
     * I have done a project implementing a Peer-to-Peer network using Python.
 

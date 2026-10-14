@@ -3,9 +3,9 @@ title: shmem-bind
 
 
 summary: |2-
-    * shmem-bind is a safe and idiomatic wrapper over shared memory APIs in rust.
+    * shmem-bind is a safe and idiomatic wrapper over shared memory APIs in Rust.
     * This crate ensures proper ownership and automatic cleanup of the shared memory by using
-    rust's strong type system.
+    Rust's strong type system.
 
 tags:
     - system

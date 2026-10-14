@@ -10,7 +10,7 @@ last_name: Akhavan
 superuser: true
 
 # Role/position/tagline
-role: Masters Student in Computer Science
+role: M.S. Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,33 +18,26 @@ organizations:
     url:  "https://sdsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-# TODO: ARSHIA
-bio: My research interests include computer systems, parallel computing and distributed systems, programming languages and verification, high performance computing, operating systems, computer architecture, and software engineering.
+bio: M.S. student at San Diego State University working on programming languages and verification for concurrent and distributed systems.
 
 # Interests to show in About widget
 interests:
-    - Computer Systems
-    - Parallel Computing
-    - Distributed Systems
     - Programming Languages
-    - Verification
-    - High Performance Computing
-    - Operating Systems
-    - Computer Networking
-    - WebAssembly
+    - Formal Verification
+    - Concurrent and Distributed Systems
+    - Type Systems
+    - E-graphs and Equality Saturation
+    - Safe Systems Programming (Rust)
 
 # Education to show in About widget
 education:
   courses:
-    - course: Masters in Computer Science
+    - course: M.S. in Computer Science
       institution: San Diego State University
-      year: Fall 2025 - Currently 
-    - course: Bachelor of Science in Computer Engineering
+      year: Fall 2025 - present
+    - course: B.Sc. in Computer Engineering
       institution: Sharif University of Technology
       year: Fall 2018 - July 2024
-    - course: High School Diploma in Mathematics and Physics
-      institution: Allame Helli Tehran NODET (SAMPAD) High School
-      year: Fall 2014 - Spring 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -79,7 +72,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a Master’s student in the Computer Science Department at San Diego State University, where I work as a research assistant under [Bryan Donyanavard](https://bryandony.github.io/). My research focuses on deploying 3D Scene Graph (3DSG) edge services that maintain consistent global scene representations and serve them to multiple autonomous agents in real time. I develop adaptive policies for reconciling distributed updates and serving resource-aware subgraphs, enabling reliable operation of autonomous systems in dynamic environments. I am also broadly interested in formal methods and distributed systems as foundations for building correct and scalable autonomous cyber-physical systems.
+I am an M.S. student in Computer Science at San Diego State University, where I work as an NSF-funded research assistant with [Bryan Donyanavard](https://bryandony.github.io/). **I am applying to PhD programs for Fall 2027.**
+
+My research interests are in programming languages and verification for concurrent and distributed systems. I want to make deadlocks, data races, memory-ordering and consistency bugs unrepresentable, rather than finding them after the fact. I am also interested in type systems, verified program rewriting with e-graphs, and safe systems programming in Rust.
+
+At SDSU I built [Yggdrasil](https://github.com/brdsdsu/Yggdrasil), a 3D scene graph for robots written in Rust that answers queries up to 121× faster than a published baseline. I am now extending it to multi-agent settings, where a global server resolves the logical and semantic conflicts between the agents' views of the world. I also collaborate with researchers at the University of Illinois Urbana-Champaign on [AEBench](https://github.com/AEBench/AEBench), a benchmark of AI agents on artifact evaluation. Before SDSU, I was a graduate researcher at Bowling Green State University, where I built [LinkAnchor](https://github.com/ISE-Research/LinkAnchor) (FSE '26), an LLM agent for issue-to-commit link recovery.
 
 <!-- I have industry experience as a Software Engineer at Sotoon, a cloud service provider in Iran, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East. -->
 
@@ -90,5 +87,3 @@ I received my Bachelor of Science in Computer Engineering from Sharif University
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
 </br>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-industrial-CV.pdf" "newtab" >}}industrial resumé.{{< /staticref >}}
-</br>
-But be aware that <a href="/">the web page </a> is **more up to date!**

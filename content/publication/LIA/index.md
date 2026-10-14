@@ -2,7 +2,7 @@
 title: "LIA: Supervised Fine-Tuning of Large Language Models for Automatic Issue Assignment"
 authors:
 - Arsham Khosravani
-- Alireza hossein pour
+- Alireza Hoseinpour
 - admin
 - Mehdi Keshani
 - Abbas Heydarnoori

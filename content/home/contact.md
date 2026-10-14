@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
 title: Contact
 subtitle:
@@ -16,15 +16,11 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: letmemakenewone@gmail.com
+  email: aakhavan3824@sdsu.edu
 
 
 
   contact_links:
-    - icon: building-columns
-      icon_pack: fas
-      link: mailto:aakhavan3824@sdsu.edu
-      name: aakhavan3824@sdsu.edu
     - icon: github
       icon_pack: fab
       name: GitHub (ArshiAAkhavan)

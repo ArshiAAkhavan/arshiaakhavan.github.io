@@ -7,14 +7,14 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 60
 
-title: Voluntary Service
+title: Service & Outreach
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: '2006'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -23,19 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Artifact Evaluation Committee Member
+    company: USENIX Annual Technical Conference (ATC '26)
+    company_url: ''
+    date_start: '2026-01-01'
+    date_end: '2026-12-31'
+    description:
+
   - title: Founder & President
-    company: Code o She'r (first)
+    company: Code o She'r (1st edition)
     # company_url: ''
     company_logo: codeosher
     location: Tehran
     date_start: '2023-11-01'
     date_end: '2024-04-01'
     description: |2-
-        * Code o She'r is a Spaghetti Code Challange which focuses on UBs and exploits architectural behaviors of Computers and compilers with the aim of hosting an environment for contestants to become more familiar with the field of computer systems.
+        * Code o She'r is a Spaghetti Code Challenge that focuses on undefined behavior and exploits architectural behaviors of computers and compilers with the aim of hosting an environment for contestants to become more familiar with the field of computer systems.
             </br> </br>
-        * As the Founder and President of Code o She'r, I took on the role of leadership over a team of 70+ members and oversaw various flows from design, marketing, and executive duties to Scientific and technical tasks.
+        * As the Founder and President of Code o She'r, I took on the role of leadership over a team of 70+ members and oversaw various flows from design, marketing, and executive duties to scientific and technical tasks.
 
-  - title: Vise President of Tech
+  - title: Vice President of Technology
     company: SSC
     company_url: ''
     company_logo: ssc
@@ -45,33 +52,33 @@ experience:
     description: |2-
         * Students' Scientific Chapter (SSC) is a scientific association consisting of all students of Computer Engineering Department of Sharif University of Technology. It holds scientific talks and events throughout the year. Its central council consists of nine members, selected by votes of all students.
             </br> </br>
-        * I have been selected as the vise president of tech in SSC for one academic year by gaining the most votes in the general election and then gaining the votes of other central council members.
+        * I was elected vice president of technology of the SSC for one academic year, after receiving the most votes in the general election and then the votes of the other central council members.
 
-  - title: chief of technical staff
+  - title: Chief of Technical Staff
     company: ICPC Asia Tehran Regional Contest 2023
     company_url: ''
     company_logo: icpc
-    location: tehran
+    location: Tehran
     date_start: '2024-05-30'
     date_end: '2024-05-31'
     description: |2-
 
         * The ICPC International Collegiate Programming Contest, known as the ICPC, is an annual multi-tiered competitive programming competition among the universities of the world.
 
-        * As the Cheif of Tech, I was tasked with leading the technical team of 10 members and address a variety of technical needs such as:
+        * As Chief of Technical Staff, I led a technical team of 10 members and addressed a variety of technical needs, such as:
             </br> </br>
-            * Build contest-customized OS images and distribute them on contestants hosts using PXE Network boot.
+            * Build contest-customized OS images and distribute them on contestants' hosts using PXE Network boot.
             * Manage and configure hosts used by contestants and monitor their connectivity.
             * Restrict external access and host to host access of each contestant’s host device.
-            * ensure network performance and fairness between defferent devices used by the contestants.
+            * Ensure network performance and fairness between different devices used by the contestants.
 
 
 
-  - title: chief of technical staff
+  - title: Chief of Technical Staff
     company: ICPC Asia Tehran Regional Contest 2022
     company_url: ''
     company_logo: icpc
-    location: tehran
+    location: Tehran
     date_start: '2023-04-01'
     date_end: '2023-05-30'
 
@@ -95,22 +102,22 @@ experience:
 
 
   - title: Chief of Infrastructure and System Team
-    company: Sharif AI Challange  2021
+    company: Sharif AI Challenge 2021
     company_url: ''
     company_logo: aic
     location: Tehran
     date_start: '2020-12-01'
     date_end: '2021-05-30'
     description: |2-
-        * AIC is the biggest AI contest in the country in which teams have to develop strategy for competting against other teams, using AI
+        * AIC is the biggest AI contest in the country, in which teams develop AI strategies to compete against other teams.
 
         * As the Chief of Infrastructure and System Team, I was tasked with leading a team of 4 to address the Infrastructure needs of the contest:
             </br> </br>
-            * Develop an event-driven maching system.
+            * Develop an event-driven matching system.
             * Design and Develop an auto-scaler system for the matching infrastructure to ensure minimum latency for the matches.
-            * Ensure faire resource allocation between rival binaries.
-            * Create an isolated sand-box for each contestant binary and eliminate any side-channel attack that may affect the faireness of the results.
-            * Maintain Data Storage for storing all datas from game logs to contestant binaries and monitoring data.
+            * Ensure fair resource allocation between rival binaries.
+            * Create an isolated sand-box for each contestant binary and eliminate any side-channel attack that may affect the fairness of the results.
+            * Maintain data storage for everything from game logs to contestant binaries and monitoring data.
 design:
   columns: '2'
 ---

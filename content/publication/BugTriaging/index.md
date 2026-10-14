@@ -3,7 +3,7 @@ title: "Automated Bug Triaging using Instruction-Tuned Large Language Models"
 authors:
 - Kiana Kiashemshaki
 - Arsham Khosravani
-- Alireza hossein pour
+- Alireza Hosseinpour
 - admin
 date: "2025-08-28T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2508.21156"

@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 70
 
 title: Projects
 subtitle: ''
@@ -41,6 +41,8 @@ content:
       tag: Net
     - name: Compiler
       tag: compiler
+    - name: Concurrency
+      tag: Concurrency
     - name: Health
       tag: Health
 

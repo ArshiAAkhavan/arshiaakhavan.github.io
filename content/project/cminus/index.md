@@ -2,7 +2,7 @@
 title: CMinus Compiler
 summary: |2-
 
-    * We implemented a Compiler for CMinus Langauge, a simplified subset of the C language.
+    * We implemented a Compiler for CMinus Language, a simplified subset of the C language.
 
 
     * It consists of four parts: Lexer, Parser, Code Generator, and Semantic Analyzer.
