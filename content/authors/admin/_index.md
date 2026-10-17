@@ -18,7 +18,7 @@ organizations:
     url:  "https://sdsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.S. student at San Diego State University working on programming languages and verification for concurrent and distributed systems.
+bio: M.S. student at SDSU building toward languages and verification tools that make concurrency and distributed-systems bugs unrepresentable.
 
 # Interests to show in About widget
 interests:
@@ -70,20 +70,19 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# With researchers at UIUC I work on [AEBench](https://github.com/AEBench/AEBench), which measures how far AI agents can be trusted to reproduce published systems results. Earlier, at Bowling Green State University, I built [LinkAnchor](https://github.com/ISE-Research/LinkAnchor) (FSE '26), an LLM agent for issue-to-commit link recovery.
 ---
 
 I am an M.S. student in Computer Science at San Diego State University, where I work as a research assistant with [Bryan Donyanavard](https://bryandony.github.io/). **I am applying to PhD programs for Fall 2027.**
 
-My research interests are in programming languages and verification for concurrent and distributed systems. I want to make deadlocks, data races, memory-ordering and consistency bugs unrepresentable, rather than finding them after the fact. I am also interested in type systems, verified program rewriting with e-graphs, and safe systems programming in Rust.
+I am interested in programming languages and verification for concurrent and distributed systems. AI coding agents now produce code faster and in greater volume than humans can review, so compilers and verifiers have to become the reviewers. I want to build languages, type systems, compilers, and verification tools that make entire classes of bugs in these systems, such as memory-ordering and consistency bugs, unrepresentable. Correctness should then follow from construction rather than testing, and every rejected program should tell whoever wrote it, exactly what went wrong.
 
-At SDSU I built [Yggdrasil](https://github.com/brdsdsu/Yggdrasil), a 3D scene graph for robots written in Rust that answers queries up to 121× faster than a published baseline. I am now extending it to multi-agent settings, where a global server resolves the logical and semantic conflicts between the agents' views of the world. I also collaborate with researchers at the University of Illinois Urbana-Champaign on [AEBench](https://github.com/AEBench/AEBench), a benchmark of AI agents on artifact evaluation. Before SDSU, I was a graduate researcher at Bowling Green State University, where I built [LinkAnchor](https://github.com/ISE-Research/LinkAnchor) (FSE '26), an LLM agent for issue-to-commit link recovery.
+I came to this from building systems. At Sotoon, a cloud provider, I tracked down a data race in our Kubernetes storage plugin that could have deleted over 70 TB of customer data, exactly the kind of bug a type system can rule out. I have implemented lock-free data structures and hazard pointers in Rust, and I maintain [shmem-bind](https://github.com/ArshiAAkhavan/shmem-bind), a Rust library whose types guarantee that shared memory is cleaned up.
 
-<!-- I have industry experience as a Software Engineer at Sotoon, a cloud service provider in Iran, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East. -->
-
-I have industry experience as a Software Engineer at Sotoon, a cloud service provider, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East.
-
-I received my Bachelor of Science in Computer Engineering from Sharif University of Technology.
-
+At SDSU I built [Yggdrasil](https://github.com/brdsdsu/Yggdrasil), a 3D scene graph library for robots that answers queries up to 121× faster than a published baseline. I am now extending it to multiple agents whose views of the world conflict, which is at heart a consistency problem.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
 </br>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-industrial-CV.pdf" "newtab" >}}industrial resumé.{{< /staticref >}}
+
+
