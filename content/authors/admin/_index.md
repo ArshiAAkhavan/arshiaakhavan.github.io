@@ -24,10 +24,11 @@ bio: M.S. student at SDSU building toward languages and verification tools that 
 interests:
     - Programming Languages
     - Formal Verification
+    - Compilers
     - Concurrent and Distributed Systems
     - Type Systems
     - E-graphs and Equality Saturation
-    - Safe Systems Programming (Rust)
+    - Systems Programming (Rust)
 
 # Education to show in About widget
 education:
